@@ -16,9 +16,12 @@ class CaesarsCipherTest {
     }
 
     //fail test case
-//    @Test
-//    void testCipheredMessageWithOffsetof11(){
-//        assertEquals("tai mdq kag pauzs fapmk", caesarsCipher.cipher("how are you doing today", 11));
-//    }
+    @Test
+    void testCipheredMessageWithOffsetof11(){
+        assertEquals("tai mdq kag pauzs fapmk", caesarsCipher.cipher("how are you doing today", 11));
+    }
+
+
+
 
 }
