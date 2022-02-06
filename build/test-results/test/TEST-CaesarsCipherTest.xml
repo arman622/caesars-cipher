@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CaesarsCipherTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-02-04T04:15:26" hostname="Armans-MacBook-Pro.local" time="0.028">
+<testsuite name="CaesarsCipherTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-02-06T02:27:20" hostname="Armans-MacBook-Pro.local" time="0.025">
   <properties/>
-  <testcase name="testCipheredMessageWithOffsetof12()" classname="CaesarsCipherTest" time="0.027"/>
+  <testcase name="testCipheredMessageWithOffsetof12()" classname="CaesarsCipherTest" time="0.024"/>
   <testcase name="testEmptyString()" classname="CaesarsCipherTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
