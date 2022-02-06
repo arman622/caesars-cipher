@@ -2,8 +2,8 @@ public class main {
 
     public static void main(String[] args){
 
-        String message = "how are you doing today";
-        int offset = 12;
+        String message = "arman haque";
+        int offset = 8;
 
         CaesarsCipher caesarsCipher = new CaesarsCipher();
         String cipherMessage = caesarsCipher.cipher(message, offset);
